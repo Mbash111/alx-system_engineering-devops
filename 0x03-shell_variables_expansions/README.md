@@ -7,3 +7,4 @@ Task 5. Local variables:Is a script that lists all local variables and environme
 Task 6. Local variable:Is a script that creates a new local variable.
 Task 7. Global variable:Is a script that creates a new global variable.
 Task 8:Is a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+Task 9. Divide and rule:Is a script that prints the result of POWER divided by DIVIDE, followed by a new line.
