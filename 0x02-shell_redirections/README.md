@@ -8,3 +8,5 @@ Task 5. I'd prefer the first ones actually:Display the first 10 lines of /etc/pa
 Task 6. Line #2:Is a script that displays the third line of the file iacta.
 Task 7.:Is a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 Task 8. Save current state of directory:Is a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
+Task 9. Duplicate last line:Write a script that duplicates the last line of the file iacta.
+Task 11.is a script that counts the number of directories and sub-directories in the current directory.
